@@ -107,23 +107,6 @@ User Request
 
 ---
 
-## 🎬 Hackathon Demo Flow (3 minutes)
-
-1. **Open app** → splash screen → "Get Started"
-2. **Select role** → e.g. "Investor" → Enter name → "Launch My Newsroom"
-3. **Dashboard loads** with:
-   - Live GNews articles (real-time, no placeholders)
-   - ARIA avatar with Groq-generated greeting
-   - Breaking news alert pops up (sound)
-4. **Search** → type "RBI" → see AI search insight from Groq
-5. **Click "Ask AI"** on any article → Chat opens with article pre-filled
-   - Ask: "What does this mean for my portfolio?" → Groq responds with news context
-6. **Click "🎬 Video Studio"** on any article → Groq generates broadcast script → play with TTS
-7. **Story Arc Tracker** → click "Analyze with Groq AI" → 2-sentence analysis
-8. **Change language** → Tamil/Hindi → articles translate via MyMemory API
-
----
-
 ## 📁 Project Structure
 
 ```
