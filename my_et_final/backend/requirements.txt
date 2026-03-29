@@ -1,0 +1,37 @@
+# My ET - AI Personalized Newsroom
+# Python Backend Dependencies
+
+# Web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.9
+
+# HTTP client
+aiohttp==3.9.3
+httpx==0.26.0
+
+# RSS parsing
+feedparser==6.0.11
+
+# Database
+aiosqlite==0.20.0
+
+# Groq AI (replaces Ollama — free, fast, cloud-based)
+groq==0.4.2
+
+# Vector database & embeddings (optional, for advanced RAG)
+# faiss-cpu==1.7.4
+# sentence-transformers==2.7.0
+# numpy==1.26.4
+# scikit-learn==1.4.0
+
+# Translation
+# (Using MyMemory free API directly via HTTP, no library needed)
+
+# Pydantic
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.31.0
